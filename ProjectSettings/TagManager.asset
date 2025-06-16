@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Game Manager
+  - Fired
+  - Rules
+  - Next Stage Juice
+  - Lose Screen
+  - Win Screen
+  - Slap to Start
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Conveyor
+  - Water
+  - UI
+  - Player
+  - Donut
+  - Particles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4018787431
+    locked: 0
+  - name: UI
+    uniqueID: 1793644657
+    locked: 0
+  - name: Player
+    uniqueID: 1654544969
+    locked: 0
+  - name: Box
+    uniqueID: 2701543667
+    locked: 0
+  - name: Conveyer Belt
+    uniqueID: 44501123
+    locked: 0
+  - name: Scan-O-Matic
+    uniqueID: 3933817339
+    locked: 0
+  m_RenderingLayers:
+  - Default
